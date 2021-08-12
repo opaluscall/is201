@@ -1,0 +1,25 @@
+li{
+font-weight: 300;
+font-size: medium;
+}
+.listing{
+    font-weight: bold;
+    font-size: large;
+}
+ul{
+    font-weight: 300;
+    font-size: medium;
+}
+.homelists{
+    text-decoration: underline;
+    font-size: larger;   
+    font-weight: bolder; 
+}
+/*
+:hover{
+    color: rgba(88, 223, 223, 0.842);
+}*/
+.cent{
+    text-align: center;
+    padding-left: 45%;
+}
